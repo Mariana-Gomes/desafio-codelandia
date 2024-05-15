@@ -4,8 +4,7 @@
 
 ## Qual era o desafio?
 
-Nesse desafio, eu deveria recriar uma aplicação, a partir de um layout pronto no [Figma]([https://www.figma.com/file/waisYRoNzeBgIxOyrz0b2R/Projeto01-Extra/duplicate?type=design&node-id=0-1&mode=design](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1])).
-
+Nesse desafio, eu deveria recriar uma aplicação, a partir de um layout pronto no [Figma](https://www.figma.com/file/waisYRoNzeBgIxOyrz0b2R/Projeto01-Extra/duplicate?type=design&node-id=0-1&mode=design](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1).
 
 ## O que há no desafio?
 
